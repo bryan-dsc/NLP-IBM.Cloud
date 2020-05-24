@@ -1,0 +1,35 @@
+CC, Conjunción de coordinación
+CD, dígito cardinal
+DT, Determinador
+EX, existencial
+FW, palabra extranjera
+IN, preposición/junta subordinación
+JJ, Adjetivo
+JJR, Adjetivo comparativo
+JJS, Adjetivo  superlativo
+LS, Marcador de lista  1
+MD, modal
+NN, sustantivo singular
+NNS, sustantivo plural
+NNP, sustantivo propio singular
+NNPS, sustantivo propio plural
+PDT, Predeterminador
+POS, posesivo final
+PRP, pronombre personal
+PRP$, pronombre posesivo
+RB, adverbio
+RBR, Adverbio  comparativamente
+RBS, adverbio superlativo
+RP, partículas
+TO, particula de infinitivo
+UH, interjección
+VB, verbo
+VBD, verbo como tiempo pasado
+VBG, verbo como gerundio/presente
+VBN, verbo como  participio pasado
+VBP, verbo como presente
+VBZ, verbo como tercera persona
+WDT, wh-determiner
+WP, pronombre de pregunta
+WP$, posesivo con pronombre
+WRB, wh-abverb
